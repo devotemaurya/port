@@ -4,7 +4,6 @@ import './App.css';
 import Home from './sections/Home';
 import Projects from './sections/Projects';
 import Skills from './sections/Skills';
-import Experience from './sections/Experience';
 import Contact from './sections/Contact';
 import Footer from './sections/Footer';
 
